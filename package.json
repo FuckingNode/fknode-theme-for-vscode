@@ -1,0 +1,30 @@
+{
+  "name": "fknode-theme",
+  "displayName": "FuckingNode Theme",
+  "description": "FuckingNode's feel, now in your code editor.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "FuckingNode Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/FuckingNode Theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZakaHaceCosas/fknode-theme.git"
+  },
+  "license": "GPL-3.0-only",
+  "publisher": "ZakaHaceCosas",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
