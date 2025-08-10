@@ -2,13 +2,14 @@
   "name": "fknode-theme",
   "displayName": "FuckingNode Theme",
   "description": "FuckingNode's feel, now in your code editor.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.99.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "fktheme.png",
   "contributes": {
     "themes": [
       {
@@ -25,6 +26,6 @@
   "license": "GPL-3.0-only",
   "publisher": "ZakaHaceCosas",
   "devDependencies": {
-    "prettier": "^3.5.3"
+    "prettier": "^3.6.2"
   }
 }
