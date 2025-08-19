@@ -2,7 +2,8 @@
   "name": "fknode-theme",
   "displayName": "FuckingNode Theme",
   "description": "FuckingNode's feel, now in your code editor.",
-  "version": "1.1.0",
+  "version": "1.1.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -23,7 +24,6 @@
     "type": "git",
     "url": "https://github.com/ZakaHaceCosas/fknode-theme.git"
   },
-  "license": "GPL-3.0-only",
   "publisher": "ZakaHaceCosas",
   "devDependencies": {
     "prettier": "^3.6.2"

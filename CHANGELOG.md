@@ -4,6 +4,12 @@ All notable changes to the FuckingNode VSCode theme will be logged here.
 
 This follows the [Keep a Changelog](http://keepachangelog.com/) specification.
 
+## [1.1.1]
+
+### Fixed
+
+- Fixed the comment gutter not being properly visible.
+
 ## [1.1.0]
 
 ### Added
